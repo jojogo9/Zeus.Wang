@@ -151,7 +151,12 @@ theme_config:
   social:
     # twitter: ZE3kr
     instagram: zeuszhou_0109
-    # github: ZE3kr
+    github: Zeus-Wang
+
+  links:
+    - title: James Guo
+      url: https://ze3kr.com
+      domain: ze3kr.com
 
   user:
     name: Zeus Wang
