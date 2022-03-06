@@ -126,9 +126,9 @@ feed:
   hub:
 
 theme_config:
-  title: Zeus Wang’s Website
-  short: Website
-  short2: Zeus’ Website
+  title: Zeus Wang
+  short: Blog
+  short2: Zeus Wang
   piwik: 14
 
   # main menu navigation
