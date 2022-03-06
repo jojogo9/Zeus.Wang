@@ -167,8 +167,8 @@ theme_config:
   # documents: https://github.com/utterance/utterances
   # API config: https://utteranc.es/
   comment_utteranc:
-    enable: false
-    repo:
+    enable: true
+    repo: Zeus-Wang/Zeus.Wang
 
   # documents: https://valine.js.org/quickstart.html
   comment_valine:
