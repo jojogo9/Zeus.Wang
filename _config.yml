@@ -137,7 +137,7 @@ theme_config:
   # About: /about/
   # Archive: /archives/
 
-  highlight: false
+  highlight: true
 
   license: |-
     All rights reserved.
