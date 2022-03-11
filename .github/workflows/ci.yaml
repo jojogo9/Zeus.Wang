@@ -9,7 +9,7 @@ jobs:
     - name: executing remote ssh commands using ssh key
       uses: appleboy/ssh-action@master
       with:
-        host: bj1-aliyun.tloxygen.com,hk1-gcp.tloxygen.com
+        host: bj1-aliyun.tloxygen.com,hk1-gcp.tloxygen.com,us1-buyvm.tloxygen.com
         username: zeus
         key: ${{ secrets.KEY }}
         script: /usr/bin/git -C /home/zeus/sync/Zeus.Wang pull
