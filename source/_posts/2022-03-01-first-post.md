@@ -3,7 +3,7 @@ title: My Website is Here!
 tags:
   - Cat
 categories:
-  - Pictures
+  - Life
 date: 2022-03-01 23:59:00
 ---
 
