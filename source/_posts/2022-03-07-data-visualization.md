@@ -1,7 +1,7 @@
 ---
-title: Data visualization of UIUC computer science course selection
+title: Data visualization of UIUC computer science course selection（TBD）
 tags:
-  - Tableas
+  - Tableau
   - Data Visualization
 categories:
   - Project Experience
