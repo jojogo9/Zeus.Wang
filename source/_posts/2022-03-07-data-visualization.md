@@ -18,12 +18,20 @@ In my opinion, the Saca platform is very similar to Tableau.
 
 ## Steps of the project
 
-### 1. Find a dataset
+### 1. Find a dataset and take a look at the data format
 
 I got my dataset from [waf.cs.illinois.edu](https://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/)
 
+The dataset contains 9 columns: Course ID	Course Title, Primary Instructor and the number of students who got A, B, C, D, F, W in the last five years.
+
 ### 2. Understand the application scenario
 
-First, students choose courses to meet graduation requirements. Through this link, I learned about ][UIUC's graduation requirements](http://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/#degreerequirementstext).
+Students choose courses to meet graduation requirements. Through this link, I learned about [UIUC's graduation requirements](http://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/#degreerequirementstext).
 
-Based on the graduation requirements, I have determined that my project should include two aspects: one is based on core courses, and the second is based on all courses.
+Based on the graduation requirements, I have determined that my project should include two aspects: one is based on Computer Science Technical Core, and the second is based on all courses.
+
+### 3. Understand user needs
+
+As students, we usually hope to choose: 
+* courses with as many credits as possible
+* courses with high excellent rate and high pass rate
