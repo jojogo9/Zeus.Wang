@@ -102,19 +102,13 @@ theme: hexo-theme-claudia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-
-responsive_images:
-  pattern: '**/*.+(png|jpg|jpeg)'
-  sizes:
-    small:
-      width: 800
-      withoutEnlargement: true
-    medium:
-      width: 1200
-      withoutEnlargement: true
-    large:
-      width: 2000
-      withoutEnlargement: true
+  type: git
+  repo:
+    local: ~/sync/Zeus.Wang.git,main
+    us2-gcp: zeus@us2-gcp.tloxygen.com:~/sync/Zeus.Wang.git,main
+    aliyun: zeus@bj1-aliyun.tloxygen.com:~/sync/Zeus.Wang.git,main
+    hk1-gcp: zeus@hk1-gcp.tloxygen.com:~/sync/Zeus.Wang.git,main
+    ovh: zeus@eu1-ovh.tloxygen.com:~/sync/Zeus.Wang.git,main
 
 feed:
   enable: true
@@ -158,7 +152,7 @@ theme_config:
 
   user:
     name: Zeus Wang
-    avatar: /cdn-cgi/imagedelivery/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/medium
+    avatar: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/medium
     location: Beijing
     footnotes:
 
@@ -185,8 +179,8 @@ theme_config:
   appearance: auto # Default value is auto
 
   # Miscellaneous
-  favicon: /cdn-cgi/imagedelivery/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/thumbnail
+  favicon: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/thumbnail
   #favicon_svg: /favicon.svg
 
   # picture of about page
-  about_pic: /cdn-cgi/imagedelivery/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/large
+  about_pic: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/large
