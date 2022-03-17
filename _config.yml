@@ -155,6 +155,7 @@ theme_config:
     avatar: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/medium
     location: Beijing
     footnotes:
+    description: Mens et Manus
 
   # documents: https://github.com/utterance/utterances
   # API config: https://utteranc.es/
