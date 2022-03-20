@@ -91,6 +91,8 @@ pagination_dir: page
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include:
+  - _headers
+  - _redirects
 exclude:
 ignore:
 
@@ -153,7 +155,7 @@ theme_config:
 
   user:
     name: Zeus Wang
-    avatar: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/medium
+    avatar: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/medium
     location: Beijing
     footnotes:
     description: Mens et Manus
@@ -181,8 +183,8 @@ theme_config:
   appearance: auto # Default value is auto
 
   # Miscellaneous
-  favicon: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/thumbnail
+  favicon: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/thumbnail
   #favicon_svg: /favicon.svg
 
   # picture of about page
-  about_pic: https://imagedelivery.net/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/large
+  about_pic: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/large
