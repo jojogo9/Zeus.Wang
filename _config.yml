@@ -108,8 +108,8 @@ deploy:
   repo:
     # local: ~/sync/Zeus.Wang.git,main
     # us2-gcp: zeus@us2-gcp.tloxygen.com:~/sync/Zeus.Wang.git,main
-    aliyun: zeus@bj1-aliyun.tloxygen.com:~/sync/Zeus.Wang.git,main
-    hk1-gcp: zeus@hk1-gcp.tloxygen.com:~/sync/Zeus.Wang.git,main
+    # aliyun: zeus@bj1-aliyun.tloxygen.com:~/sync/Zeus.Wang.git,main
+    # hk1-gcp: zeus@hk1-gcp.tloxygen.com:~/sync/Zeus.Wang.git,main
     # ovh: zeus@eu1-ovh.tloxygen.com:~/sync/Zeus.Wang.git,main
 
 feed:
