@@ -107,7 +107,10 @@ deploy:
   type: git
   repo:
     # local: ~/sync/Zeus.Wang.git,main
+    us1-buyvm: zeus@us1-buyvm.tloxygen.com:~/sync/Zeus.Wang.git,main
+    us1-aws: zeus@us1-aws.tloxygen.com:~/sync/Zeus.Wang.git,main
     jp1-aws: zeus@jp1-aws.tloxygen.com:~/sync/Zeus.Wang.git,main
+    eu1-ovh: zeus@eu1-ovh.tloxygen.com:~/sync/Zeus.Wang.git,main
 
 feed:
   enable: true
