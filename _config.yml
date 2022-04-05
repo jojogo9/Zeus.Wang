@@ -155,7 +155,7 @@ theme_config:
 
   user:
     name: Zeus Wang
-    avatar: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/medium
+    avatar: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/191fc4d7-5d09-4cb8-fa0e-45739be86501/medium
     location: Beijing
     footnotes:
     description: Mens et Manus
@@ -183,8 +183,8 @@ theme_config:
   appearance: auto # Default value is auto
 
   # Miscellaneous
-  favicon: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/thumbnail
+  favicon: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/191fc4d7-5d09-4cb8-fa0e-45739be86501/thumbnail
   #favicon_svg: /favicon.svg
 
   # picture of about page
-  about_pic: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/da90ddf5-647d-4dde-882d-ea9698db0a00/large
+  about_pic: https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/191fc4d7-5d09-4cb8-fa0e-45739be86501/extra
