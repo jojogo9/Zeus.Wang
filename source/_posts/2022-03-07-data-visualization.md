@@ -9,7 +9,7 @@ date: 2022-03-07 23:59:00
 ---
 In my junior year, I did a data visualization project with SaCa DataViz. I did this project to meet the requirements of object-oriented Modeling and Analysis course.
 
-<img src="https://cdn.ze3kr.com/6T-behmofKYLsxlrK0l_MQ/e874226c-ffd6-4e2d-a8d6-d19ad140e101/extra" alt="Data visualization of UIUC computer science course selection" width="2588" height="1296"/>
+<img src="https://cdn.yangxi.tech/6T-behmofKYLsxlrK0l_MQ/e874226c-ffd6-4e2d-a8d6-d19ad140e101/extra" alt="Data visualization of UIUC computer science course selection" width="2588" height="1296"/>
 
 ## What is Saca DataViz?
 Saca DataViz is developed by Neusofta. It is a self-developed self-service data exploration and visualized analysis platform that provides multi-data source access, lightweight data modeling, self-service visualized analysis tools, interactive storyboards and other functions. Aim to offer business personnel the self-service data exploration and visualized analysis services with high efficiency and low costs so that they can deeply analyze data and thoroughly seek business value. You can learn more about the platform on [Neusoft's official website](https://www.neusoft.com/Products/Platforms/2434/)
