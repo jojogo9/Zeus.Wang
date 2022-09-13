@@ -106,10 +106,10 @@ theme: hexo-theme-claudia
 deploy:
   type: git
   repo:
-    hk1-ali: zeus@hk1-ali.tloxygen.com:~/sync/Zeus.Wang.git,main
-    sg1-aws: zeus@sg1-aws.tloxygen.com:~/sync/Zeus.Wang.git,main
+    hk1-ali: zeus@hk1-ali.s.tlo.xyz:~/sync/Zeus.Wang.git,main
+    sg1-aws: zeus@sg1-aws.s.tlo.xyz:~/sync/Zeus.Wang.git,main
     us1-gcp: ~/sync/Zeus.Wang.git,main
-    eu1-ovh: zeus@de1-ovh.tloxygen.com:~/sync/Zeus.Wang.git,main
+    eu1-ovh: zeus@de1-ovh.s.tlo.xyz:~/sync/Zeus.Wang.git,main
 
 feed:
   enable: true
