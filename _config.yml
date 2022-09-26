@@ -139,7 +139,6 @@ theme_config:
     - tag
     - category
     - profile
-    - adsense
 
   adb: |-
     <h3>Oh No!😭 You blocked the ads on this site</h3>
@@ -152,7 +151,7 @@ theme_config:
 
   ads:
     - title: Domain Registrar
-      link: https://tloxygen.com
+      link: https://www.tloxygen.com
       content: |-
         <img class="mb-1" src="https://cdn.tlo.xyz/6T-behmofKYLsxlrK0l_MQ/13dcc12b-1cda-4049-997c-555726b9bd01/medium" width="800" height="667"/>
         <ul>
@@ -171,14 +170,6 @@ theme_config:
     email: zeus@tloxygen.com
 
   links:
-    - title: Disable Ad Block
-      url: /ads/
-      domain: Thanks
-      tloC: true
-    - title: Domain Registrar
-      url: https://tloxygen.com
-      domain: Free Email
-      tloB: true
     - title: James Guo
       url: https://ze3kr.com
       domain: ze3kr.com
