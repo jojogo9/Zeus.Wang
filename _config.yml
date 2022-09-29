@@ -139,6 +139,7 @@ theme_config:
     - tag
     - category
     - profile
+    - adsense
 
   adb: |-
     <h3>Oh No!😭 You blocked the ads on this site</h3>
