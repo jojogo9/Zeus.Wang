@@ -10,9 +10,9 @@ jobs:
     - name: executing remote ssh commands using ssh key
       uses: appleboy/ssh-action@master
       with:
-        host: us1-gcp.s.tlo.xyz
+        host: us2-gcp.s.tlo.xyz
         username: zeus
         key: ${{ secrets.KEY }}
-        fingerprint: SHA256:5OrD23nnTU5qLNBlQd+XCOUoY/U1AvBfMEYWwgH3waM
+        fingerprint: SHA256:zuu3EnN+3wGC1H2xb5AtGAcldWvsGMaEUpkJAsDiQWU
         script: |-
           /usr/bin/git -C /home/zeus/sync/Zeus.Wang reset --hard && /usr/bin/git -C /home/zeus/sync/Zeus.Wang pull
