@@ -164,8 +164,10 @@ theme_config:
 
   # social config
   social:
-    weibo: 3790372085
-    instagram: zeuszhou_0109
+    mastodon: https://mastodon.tlo.xyz/@jo
+    matrix: https://matrix.to/#/@zeus:matrix.tlo.xyz
+    # weibo: 3790372085
+    # instagram: zeuszhou_0109
     github: Zeus-Wang
     email: zeus@tloxygen.com
 
