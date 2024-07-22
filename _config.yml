@@ -190,10 +190,10 @@ theme_config:
     repo: Zeus-Wang/Zeus.Wang
 
   # documents: https://valine.js.org/quickstart.html
-  comment_valine:
-    enable: false
-    appId:
-    appKey:
+  #comment_valine:
+  #  enable: false
+  #  appId:
+  #  appKey:
 
   comment_disqus:
       enable: false
