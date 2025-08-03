@@ -154,13 +154,6 @@ theme_config:
       link: https://www.tloxygen.com
       content: |-
         <img class="mb-1" src="https://cdn.tlo.xyz/images/648e8d54-59f6-4fb7-7926-41a8593f3400/medium" width="800" height="667"/>
-        <ul>
-          <li>500+ TLDs</li>
-          <li>PayPal/Card</li>
-          <li>Privacy Protection</li>
-          <li>Free Email & Forward All</li>
-          <li>DS Record for DNSSEC</li>
-        </ul>
 
   # social config
   social:
